@@ -2,6 +2,11 @@
 
 <hr/>
 
+### `Swagger API de pagamentos`
+<p align="center">
+    <img src="/Img/api-pagamentos.png" alt="Swagger API de pagamentos" title="Swagger API de pagamentos">
+</p> 
+
 ### `Configuração do Refit`
 <p align="center">
     <img src="/Img/refit.png" alt="Configuração do Refit" title="Configuração do Refit">
