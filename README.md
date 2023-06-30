@@ -16,3 +16,6 @@
 <p align="center">
     <img src="/Img/handler.png" alt="Handle responsável pela autenticação JWT" title="Handle responsável pela autenticação JWT">
 </p> 
+
+# `Referências`
+* ASP.NET Core e Refit: simplificando a comunicação entre APIs: https://www.luisdev.com.br/2020/08/05/asp-net-core-e-refit-simplificando-a-comunicacao-entre-apis/
